@@ -9,7 +9,7 @@
         android:layout_height="wrap_content" >
 
         <EditText
-            android:id="@+id/editText1"
+            android:id="@+id/TextView1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentLeft="true"
@@ -155,7 +155,9 @@
             android:id="@+id/Button01"
             android:layout_width="43dp"
             android:layout_height="wrap_content"
-            android:text="@string/btn1" />
+            android:text="@string/btn1"
+            android:onClick="oneClicked"
+             />
 
         <Button
             android:id="@+id/Button02"

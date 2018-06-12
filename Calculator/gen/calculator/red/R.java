@@ -13,6 +13,35 @@ public final class R {
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
     }
+    public static final class id {
+        public static final int Button01=0x7f050010;
+        public static final int Button02=0x7f050011;
+        public static final int Button03=0x7f050012;
+        public static final int Button04=0x7f05000b;
+        public static final int Button08=0x7f050016;
+        public static final int Button11=0x7f050017;
+        public static final int Button12=0x7f050015;
+        public static final int Button14=0x7f050018;
+        public static final int ButtonAC=0x7f05000f;
+        public static final int ButtonAdd=0x7f050003;
+        public static final int ButtonC=0x7f050014;
+        public static final int ButtonDiv=0x7f050009;
+        public static final int ButtonHR=0x7f05000a;
+        public static final int ButtonMC=0x7f050001;
+        public static final int ButtonMR=0x7f050002;
+        public static final int ButtonMS=0x7f050005;
+        public static final int ButtonMSub=0x7f050004;
+        public static final int ButtonMul=0x7f05000e;
+        public static final int ButtonPer=0x7f050019;
+        public static final int ButtonSub=0x7f050013;
+        public static final int TextView1=0x7f05001a;
+        public static final int button05=0x7f05000c;
+        public static final int button06=0x7f05000d;
+        public static final int button07=0x7f050006;
+        public static final int button08=0x7f050007;
+        public static final int button09=0x7f050008;
+        public static final int editText1=0x7f050000;
+    }
     public static final class layout {
         public static final int lanbd=0x7f030000;
         public static final int main=0x7f030001;
